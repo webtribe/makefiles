@@ -153,7 +153,7 @@ libraries[jquery_cycle][destination] = "libraries"
 
 ; Colorbox, for usage, goto http://www.jacklmoore.com/colorbox
 libraries[colorbox][download][type]= "get"
-libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
