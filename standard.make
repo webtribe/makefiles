@@ -105,15 +105,15 @@ projects[views_slideshow][subdir] = "contrib"
 projects[webform][version] = 3.18
 projects[webform][type] = "module"
 projects[webform][subdir] = "contrib"
-projects[xmlsitemap][version] = 2.0-rc2
-projects[xmlsitemap][type] = "module"
-projects[xmlsitemap][subdir] = "contrib"
+;projects[xmlsitemap][version] = 2.0-rc2
+;projects[xmlsitemap][type] = "module"
+;projects[xmlsitemap][subdir] = "contrib"
 
 ; Extra modules
 projects[omega_tools][version] = 3.0-rc4
 projects[omega_tools][subdir] = "contrib"
-projects[sassy][version] = 2.13
-projects[sassy][subdir] = "contrib"
+;projects[sassy][version] = 2.13
+;projects[sassy][subdir] = "contrib"
 projects[prepro][version] = 0.10
 projects[prepro][subdir] = "contrib"
 projects[metatag][version] = 1.0-beta4
