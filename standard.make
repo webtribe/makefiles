@@ -99,6 +99,11 @@ projects[webtribe_wysiwyg][download][type] = git
 projects[webtribe_wysiwyg][download][url] = "git://github.com/webtribe/wysiwyg.git"
 projects[webtribe_wysiwyg][subdir] = "features"
 
+projects[webtribe_user][type] = module
+projects[webtribe_user][download][type] = git
+projects[webtribe_user][download][url] = "git://github.com/webtribe/user.git"
+projects[webtribe_user][subdir] = "features"
+
 ; Themes
 ; --------
 projects[] = omega
