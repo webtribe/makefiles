@@ -128,4 +128,3 @@ libraries[phpsass][download][type]= "git"
 libraries[phpsass][download][url] = "git://github.com/richthegeek/phpsass.git"
 libraries[phpsass][directory_name] = "phpsass"
 libraries[phpsass][destination] = "libraries"
-
