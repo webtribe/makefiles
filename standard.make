@@ -33,96 +33,64 @@ projects[drupal][version] = 7
   
 ; Modules
 ; --------
-projects[admin_menu][version] = 3.0-rc3
 projects[admin_menu][type] = "module"
 projects[admin_menu][subdir] = "contrib"
-projects[module_filter][version] = 1.7
 projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
-projects[ctools][version] = 1.2
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
-projects[context][version] = 3.0-beta6
 projects[context][type] = "module"
 projects[context][subdir] = "contrib"
-projects[devel][version] = 1.3
 projects[devel][type] = "module"
 projects[devel][subdir] = "contrib"
-projects[features][version] = 1.0
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
-projects[imce][version] = 1.6
 projects[imce][type] = "module"
 projects[imce][subdir] = "contrib"
-projects[backup_migrate][version] = 2.4
 projects[backup_migrate][type] = "module"
 projects[backup_migrate][subdir] = "contrib"
-projects[diff][version] = 3.2
 projects[diff][type] = "module"
 projects[diff][subdir] = "contrib"
-projects[ds][version] = 2.0
 projects[ds][type] = "module"
 projects[ds][subdir] = "contrib"
-projects[entity][version] = 1.0omega_tools
 projects[entity][type] = "module"
 projects[entity][subdir] = "contrib"
-projects[google_analytics][version] = 1.3
 projects[google_analytics][type] = "module"
 projects[google_analytics][subdir] = "contrib"
-projects[libraries][version] = 2.0
 projects[libraries][type] = "module"
 projects[libraries][subdir] = "contrib"
-projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
 projects[menu_block][subdir] = "contrib"
-projects[nice_menus][version] = 2.1
 projects[nice_menus][type] = "module"
 projects[nice_menus][subdir] = "contrib"
-projects[pathauto][version] = 1.2
 projects[pathauto][type] = "module"
 projects[pathauto][subdir] = "contrib"
-projects[strongarm][version] = 2.0
 projects[strongarm][type] = "module"
 projects[strongarm][subdir] = "contrib"
-projects[token][version] = 1.4
 projects[token][type] = "module"
 projects[token][subdir] = "contrib"
-projects[rules][version] = 2.2
 projects[rules][type] = "module"
 projects[rules][subdir] = "contrib"
-projects[imce_wysiwyg][version] = 1.0
 projects[imce_wysiwyg][type] = "module"
 projects[imce_wysiwyg][subdir] = "contrib"
-projects[wysiwyg][version] = 2.2
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib"
-projects[views][version] = 3.5
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
-projects[views_slideshow][version] = 3.0
 projects[views_slideshow][type] = "module"
 projects[views_slideshow][subdir] = "contrib"
-projects[webform][version] = 3.18
 projects[webform][type] = "module"
 projects[webform][subdir] = "contrib"
-projects[xmlsitemap][version] = 2.0-rc2
 projects[xmlsitemap][type] = "module"
 projects[xmlsitemap][subdir] = "contrib"
 
 ; Extra modules
-projects[omega_tools][version] = 3.0-rc4
 projects[omega_tools][subdir] = "contrib"
-projects[sassy][version] = 2.13
 projects[sassy][subdir] = "contrib"
-projects[prepro][version] = 0.10
 projects[prepro][subdir] = "contrib"
-projects[metatag][version] = 1.0-beta4
 projects[metatag][subdir] = "contrib"
-projects[custom_formatters][version] = 2.2
 projects[custom_formatters][subdir] = "contrib"
-projects[htmlmail][version] = 2.65  
 projects[htmlmail][subdir] = "contrib"
-projects[mailsystem][version] = 2.34
 projects[mailsystem][subdir] = "contrib"
 
 ; Features
@@ -134,8 +102,6 @@ projects[webtribe_wysiwyg][subdir] = "features"
 ; Themes
 ; --------
 projects[] = omega
-
-  
   
 ; Libraries
 ; ---------
