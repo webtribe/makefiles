@@ -92,6 +92,15 @@ projects[metatag][subdir] = "contrib"
 projects[custom_formatters][subdir] = "contrib"
 projects[htmlmail][subdir] = "contrib"
 projects[mailsystem][subdir] = "contrib"
+projects[delta][subdir] = "contrib"
+projects[stringoverrides][subdir] = "contrib"
+projects[special_menu_items] = "contrib"
+projects[menu_attributes] = "contrib"
+projects[admin_views] = "contrib"
+projects[flexslider] = "contrib"
+projects[responsive_menus] = "contrib"
+projects[views_bulk_operations] = "contrib"
+projects[search_krumo] = "contrib"
 
 ; Features
 projects[webtribe_wysiwyg][type] = module
@@ -106,7 +115,8 @@ projects[webtribe_user][subdir] = "features"
 
 ; Themes
 ; --------
-projects[] = omega
+projects[omega][type] = theme
+projects[omega][version] = 3
   
 ; Libraries
 ; ---------
@@ -133,3 +143,10 @@ libraries[phpsass][download][type]= "git"
 libraries[phpsass][download][url] = "git://github.com/richthegeek/phpsass.git"
 libraries[phpsass][directory_name] = "phpsass"
 libraries[phpsass][destination] = "libraries"
+
+; Flexslider
+libraries[flexslider][download][type] = "get"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/zipball/master"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][destination] = "libraries"
+
